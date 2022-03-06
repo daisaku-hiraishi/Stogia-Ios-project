@@ -38,7 +38,7 @@ struct ContentView: View {
                     }
                 }
             }
-            Text("Select an item next")
+            Text("Select an item next step")
         }
     }
 
